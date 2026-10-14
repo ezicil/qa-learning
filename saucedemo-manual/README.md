@@ -51,9 +51,9 @@
 
 | Файл | Описание |
 |---|---|
-| [`saucedemo-testplan.docx`](saucedemo-testplan.docx) | Тест-план: цель, область, подход, окружение, критерии начала и завершения, инструменты, риски |
-| [`saucedemo-checklist.xlsx`](saucedemo-checklist.xlsx) | Чек-лист по функциональности, разбитый по разделам сайта |
-| [`saucedemo-testcases.xlsx`](saucedemo-testcases.xlsx) | 68 тест-кейсов с приоритетами, ожидаемыми и фактическими результатами, статусами |
+| [`saucedemo_testplan.docx`](saucedemo_testplan.docx) | Тест-план: цель, область, подход, окружение, критерии начала и завершения, инструменты, риски |
+| [`saucedemo_checklist.xlsx`](saucedemo_checklist.xlsx) | Чек-лист по функциональности, разбитый по разделам сайта |
+| [`saucedemo_testcases.xlsx`](saucedemo_testcases.xlsx) | 68 тест-кейсов с приоритетами, ожидаемыми и фактическими результатами, статусами |
 | BUGREPORTS_*.md файлы | Найденные дефекты, оформленные как баг-репорты |
 
 ---

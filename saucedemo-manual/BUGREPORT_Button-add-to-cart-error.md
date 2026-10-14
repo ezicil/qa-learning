@@ -1,6 +1,6 @@
 ## Окружение
 - Браузер и версия: Chrome 151
-- ОС: например Windows 10
+- ОС: Windows 10
 - Устройство: десктоп
 - URL: https://www.saucedemo.com/inventory.html
 

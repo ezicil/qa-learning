@@ -1,3 +1,4 @@
+## Виды тестирования
 <img width="307" height="230" alt="image" src="https://github.com/user-attachments/assets/c203b02c-8600-4fe7-a120-769beca10929" />
 
 Снизу вверх по степени важности.

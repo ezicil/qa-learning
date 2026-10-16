@@ -43,14 +43,15 @@
 
 |  №  |      Font       | Format  | Editor  |
 | :-: | :-------------: | :-----: | :-----: |
-|  1  | Times New Roman | Crossed |  Word   |
-|  2  |      Arial      |  Bold   | WordPad |
-|  3  |     Calibri     | Italic  |  Word   |
-|  4  |      Arial      | Crossed | Notepad |
-|  5  |     Calibri     |  Bold   | Notepad |
-|  6  | Times New Roman | Italic  | WordPad |
-|  7  |      Arial      |  Bold   |  Word   |
-|  8  |     Calibri     | Crossed | WordPad |
-|  9  | Times New Roman |  Bold   | Notepad |
-| 10  |      Arial      | Italic  | Notepad |
+|  Test_1  | Times New Roman | Crossed |  Word   |
+|  Test_2  |      Arial      |  Bold   | WordPad |
+|  Test_3  |     Calibri     | Italic  |  Word   |
+|  Test_4  |      Arial      | Crossed | Notepad |
+|  Test_5  |     Calibri     |  Bold   | Notepad |
+|  Test_6  | Times New Roman | Italic  | WordPad |
+|  Test_7  |      Arial      |  Bold   |  Word   |
+|  Test_8  |     Calibri     | Crossed | WordPad |
+|  Test_9  | Times New Roman |  Bold   | Notepad |
+| Test_10  |      Arial      | Italic  | Notepad |
+
 Для большей оптимизации тест-кейсов можно убрать 7й случай, так как она является излишней.

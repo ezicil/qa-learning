@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e952be05f12211d1",
+        "id": "c7e8fc736a9c4993",
         "type": "tabs",
         "children": [
           {
-            "id": "ea08677b761f8244",
+            "id": "165ea9f149b29a8f",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -184,12 +184,14 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "ea08677b761f8244",
+  "active": "165ea9f149b29a8f",
   "lastOpenFiles": [
+    "day-05.md",
+    "day-05.png",
     "day-04.md",
+    "day-03.md",
     "day-01.md",
     "day-02.md",
-    "day-03.md",
     "Pasted image 20261015183918.png",
     "Pasted image 20261015153855.png"
   ]

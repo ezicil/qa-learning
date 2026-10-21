@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "961b6ee19f180599",
+        "id": "b2cb8b59fa48cadb",
         "type": "tabs",
         "children": [
           {
-            "id": "23deb4366af86a86",
+            "id": "07c20af2b73a9909",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "test-stage1-theoryoftesting.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "test-stage1-theoryoftesting"
+              "title": "Новая вкладка"
             }
           }
         ]
@@ -188,11 +184,12 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "5a68185a8ed9b6a4",
+  "active": "07c20af2b73a9909",
   "lastOpenFiles": [
+    "day-08.md",
+    "test-stage1-theoryoftesting.md",
     "day-02.md",
     "day-03.md",
-    "test-stage1-theoryoftesting.md",
     "day-04.md",
     "day-01.md",
     "day-06_07.png",

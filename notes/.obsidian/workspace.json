@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b2cb8b59fa48cadb",
+        "id": "614eae48b84ba727",
         "type": "tabs",
         "children": [
           {
-            "id": "07c20af2b73a9909",
+            "id": "24947bd1cb4e54a5",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -184,8 +184,14 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "07c20af2b73a9909",
+  "active": "24947bd1cb4e54a5",
   "lastOpenFiles": [
+    "day-09.md",
+    "day-09_sauce_request.png",
+    "day-09_sauce_cookie.png",
+    "day-09_cookie.png",
+    "day-09_login_request.png",
+    "day-09_user_data.png",
     "day-08.md",
     "test-stage1-theoryoftesting.md",
     "day-02.md",

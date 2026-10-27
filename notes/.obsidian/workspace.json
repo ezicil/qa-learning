@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "614eae48b84ba727",
+        "id": "d56fc5c401ae8b01",
         "type": "tabs",
         "children": [
           {
-            "id": "24947bd1cb4e54a5",
+            "id": "bb5b65d4ea95829e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "day-10.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "day-10"
             }
           }
         ]
@@ -184,9 +188,12 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "24947bd1cb4e54a5",
+  "active": "bb5b65d4ea95829e",
   "lastOpenFiles": [
+    "day-01.md",
+    "day-03.md",
     "day-09.md",
+    "day-10.md",
     "day-09_sauce_request.png",
     "day-09_sauce_cookie.png",
     "day-09_cookie.png",
@@ -195,9 +202,7 @@
     "day-08.md",
     "test-stage1-theoryoftesting.md",
     "day-02.md",
-    "day-03.md",
     "day-04.md",
-    "day-01.md",
     "day-06_07.png",
     "day-05.md",
     "day-06_07.md",

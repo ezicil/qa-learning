@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4e361a24bd146f69",
+        "id": "69a3f014a2abbe13",
         "type": "tabs",
         "children": [
           {
-            "id": "7b9d4c88835d17a7",
+            "id": "e638ad6d3daea627",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "day-13.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "day-13"
             }
           }
         ]
@@ -79,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "404ffde12c0e664a",
@@ -184,8 +189,9 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "7b9d4c88835d17a7",
+  "active": "e638ad6d3daea627",
   "lastOpenFiles": [
+    "day-13.md",
     "day-12.md",
     "day-12_postman_run.png",
     "day-11.md",

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d46095703523e71a",
+        "id": "6c376f79e4217765",
         "type": "tabs",
         "children": [
           {
-            "id": "f4cd0fd6bfad8d6f",
+            "id": "e3eb216c476156c9",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -184,8 +184,9 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "f4cd0fd6bfad8d6f",
+  "active": "e3eb216c476156c9",
   "lastOpenFiles": [
+    "day-22.md",
     "day15-19.md",
     "day20-21.md",
     "day-14.md",
